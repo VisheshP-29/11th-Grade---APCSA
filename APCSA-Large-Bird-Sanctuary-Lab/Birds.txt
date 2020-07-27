@@ -1,0 +1,136 @@
+California Condor
+2
+108.4
+true
+Anhingas
+1
+45.02
+true
+Tricolored Heron
+4
+36.4
+true
+Reddish Egret
+0
+46
+true
+Great Blue Heron
+3
+72.49
+false
+White Ibis
+0
+38.21
+true
+Greater Flamingo
+2
+60.43
+true
+Sandhill Crane
+3
+90.33
+true
+Turkey Vulture
+0
+69.8
+true
+Roseate Spoonbill
+2
+50
+false
+Gyrfalcon
+0
+64.9
+true
+Little Gull
+4
+24.3
+true
+Common Tern
+1
+30.1
+true
+Sooty Shearwater
+2
+40.22
+true
+Magnificent Frigatebird
+0
+90.35
+true
+Caspian Tern
+4
+50.55
+false
+Great Black-Backed Gull
+2
+68
+true
+Black-Footed Albatross
+1
+80.71
+true
+Rough-Legged Hawk
+3
+56.43
+false
+Crested Caracas
+6
+50.9
+true
+Swainson's Hawk
+1
+52.86
+true
+Osprey
+0
+72.14
+false
+Bald Eagle
+2
+90
+true
+Golden Eagle
+1
+88.6
+true
+Red-tailed Hawk
+4
+50.87
+true
+Northern Harrier
+2
+48.3
+false
+Whooping Crane
+1
+87.45
+true
+Wood Stork
+2
+61.12
+true
+American White Pelican
+0
+108
+true
+Double-crested Cormorant
+2
+52.9
+true
+Brown Pelican
+5
+84.2
+true
+Ferruginous Hawk
+2
+53.2
+false
+Wilson's Storm Petrel
+1
+16.5
+false
+Layson Albatross
+1
+79.9
+true
